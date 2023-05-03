@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThGameLauncher", "ThGameLauncher\ThGameLauncher.csproj", "{404A4B16-ABFD-4B2C-A874-C4FEE61CAD8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404A4B16-ABFD-4B2C-A874-C4FEE61CAD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404A4B16-ABFD-4B2C-A874-C4FEE61CAD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404A4B16-ABFD-4B2C-A874-C4FEE61CAD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404A4B16-ABFD-4B2C-A874-C4FEE61CAD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89CA053D-2EB8-454C-912F-9A5504A3F022}
+	EndGlobalSection
+EndGlobal
